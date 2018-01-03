@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Manifest manifestSchemaVersion="1" modelSchemaVersion="1">
+  <Application applicationName="sysmac" applicationVersion="Infinity" />
+  <Solution solutionName="VCtraining" id="a1f37d73-c4ec-4cb3-828d-4d15f245d42a" trackingId="b2009e6a-cbe1-448e-963f-4ab9c630fee7" solutionSchemaVersion="2">
+    <ApplicationFeatures>
+      <ApplicationFeature name="V102Project" />
+      <ApplicationFeature name="SetUnit NJ501-1500 Ver. 1.16" />
+      <ApplicationFeature name="TransferInfoAndBuildResultsEntitiesReduced" />
+    </ApplicationFeatures>
+  </Solution>
+</Manifest>
